@@ -1,1 +1,17 @@
 This is where you will answer the questions in the homework.
+
+There are many advantages to
+using a text editor. One being
+that it makes for very fast quick
+edits. It also makes it much easier to 
+read for the viewer. Another great advantage 
+to using a text editor is how universal
+is it. 
+
+Yes there is an advantage to using
+relative URLs because it makes for much faster and easier
+devolpment. I havent been in a web design class
+for long but it is clear to me they like
+making things as easy and fast as possible.
+Another advantage is that is encompasses much more than 
+absolute URLs. 
